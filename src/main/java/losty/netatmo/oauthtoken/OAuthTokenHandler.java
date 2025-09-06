@@ -28,7 +28,7 @@ public class OAuthTokenHandler {
 
     /**
      *
-     * @param tokenUrl The URL where to get the token. Should be always https://api.netatmo.net/oauth2/token, but one can never be sure...
+     * @param tokenUrl The URL where to get the token. Should be always https://api.netatmo.com/oauth2/token, but one can never be sure...
      * @param scope The requested scope for the token.
      * @param clientId This apps clientId.
      * @param clientSecret This apps clientSecret.
